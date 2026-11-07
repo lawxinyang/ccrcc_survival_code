@@ -1,0 +1,4 @@
+age,sex,race,laterality,grade,T_stage,N_stage,M_stage,stage_group
+45,Female,White,Left,G2,T1,N0,M0,I
+62,Male,White,Right,G3,T3,N0,M0,III
+72,Male,Black,Right,G4,T4,N1,M1,IV
